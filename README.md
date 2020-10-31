@@ -1,5 +1,5 @@
 # Snapshot_Keeper
-A web app to upload photographs.The photographs will be uploaded to  Cloudinary hosting service,Cloudinary API. 
+A web app to upload photographs.The photographs will be uploaded to  Cloudinary hosting service,Cloudinary using Cloudinary API. 
 Implemented using Node.js (backend), React.js (Frontend) and MongoDB (Database).
 # Installation
 1. First clone the files from git to your machine.
