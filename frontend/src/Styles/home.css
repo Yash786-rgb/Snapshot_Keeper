@@ -1,0 +1,81 @@
+body {
+  background-image: url(https://media.gettyimages.com/vectors/abstract-design-with-geometric-shapes-trendy-purple-gradient-vector-id1185640438?s=2048x2048);
+}
+.heading {
+  margin-top: 26vh;
+}
+@media (min-width: 992px) {
+  .form-control {
+    width: 40%;
+  }
+  .form-group {
+    margin-left: 25%;
+  }
+}
+@media (min-width: 576px) and (max-width: 992px) {
+  .form-control {
+    width: 55%;
+  }
+  .form-group {
+    margin-left: 25%;
+  }
+}
+@media (max-width: 576px) {
+  .form-control {
+    width: 70%;
+  }
+  .form-group {
+    margin-left: 14%;
+  }
+}
+.sub {
+  margin-left: 41%;
+}
+.h {
+  margin-left: -10%;
+}
+@media (min-width: 1200px) {
+  .sub1 {
+    margin-left: 37%;
+  }
+}
+@media (min-width: 992px) and (max-width: 1200px) {
+  .sub1 {
+    margin-left: 35.5%;
+  }
+}
+@media (min-width: 767px) and (max-width: 992px) {
+  .sub1 {
+    margin-left: 39%;
+  }
+}
+@media (min-width: 560px) and (max-width: 767px) {
+  .sub1 {
+    margin-left: 35%;
+  }
+}
+@media (max-width: 560px) {
+  .sub1 {
+    margin-left: 32%;
+  }
+}
+
+@media (min-width: 992px) {
+  .img-thumbnail {
+    height: 25vw;
+    width: 100%;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 992px) {
+  .img-thumbnail {
+    height: 30vw;
+    width: 100%;
+  }
+}
+
+@media (max-width: 768px) {
+  .img-thumbnail {
+    width: 100%;
+  }
+}
