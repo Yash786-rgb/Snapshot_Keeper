@@ -146,7 +146,7 @@ export default function SignUp(props) {
         <br />
         <div className="text-center h">
           <GoogleLogin
-            clientId="838697871970-ltpu8srr9q09431hjr0r9js115cn3vse.apps.googleusercontent.com"
+            clientId=YOUR_CLIENT_ID
             buttonText="Login"
             onSuccess={responseSuccessGoogle}
             onFailure={responseFailureGoogle}
